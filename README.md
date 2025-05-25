@@ -28,6 +28,10 @@ admin login page:
 ![image](https://github.com/user-attachments/assets/b15bcce6-68fe-4af5-9bc8-dfb9779ca19b)
 admin dashboard page:
 ![image](https://github.com/user-attachments/assets/c27ec1a5-9fec-42bf-be6f-0727cf6a5117)
+contact page:
+![image](https://github.com/user-attachments/assets/251037f0-3f63-413f-844e-ced47b3746e2)
+sell page:
+![image](https://github.com/user-attachments/assets/98f016e4-b527-4f2a-8999-3f422e1119c4)
 
 
 
